@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.18)  13 AUG 2014 16:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.18)  16 AUG 2014 21:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -561,55 +561,63 @@ map/pdftex.map} <./eule.png>]) [1] (./termPaper.toc)
 
  [2] (./section1.tex
 
-Package natbib Warning: Citation `bla' on page 1 undefined on input line 9.
+Package natbib Warning: Citation `Jing2000' on page 1 undefined on input line 1
+3.
 
 
-Package natbib Warning: Citation `bla' on page 1 undefined on input line 9.
+Package natbib Warning: Citation `Clarke&Lapata2010' on page 1 undefined on inp
+ut line 13.
 
-
-Package natbib Warning: Citation `bla' on page 1 undefined on input line 9.
-
-
-Package natbib Warning: Citation `bla' on page 1 undefined on input line 9.
-
-
-Package natbib Warning: Citation `bla' on page 1 undefined on input line 9.
-
-
-Package natbib Warning: Citation `bla' on page 1 undefined on input line 9.
-
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 12.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 29.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 12.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 29.
  [1]
 
-Package natbib Warning: Citation `lin2001' on page 2 undefined on input line 36
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+
+
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+
+
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+
+
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+
+
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+
+
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+
+
+Package natbib Warning: Citation `lin2001' on page 2 undefined on input line 54
 .
 
 
 Package natbib Warning: Citation `szpektor2004' on page 2 undefined on input li
-ne 36.
+ne 54.
 
-) [2] (./section2.tex <eule.png, id=28, 117.43875pt x 125.268pt>
+) [2] [3] (./section2.tex <eule.png, id=31, 117.43875pt x 125.268pt>
 File: eule.png Graphic file (type png)
 
 <use eule.png>
 Package pdftex.def Info: eule.png used on input line 7.
 (pdftex.def)             Requested size: 136.57462pt x 145.67987pt.
- [3 <./eule.png>]) [4]
+ [4 <./eule.png>]) [5]
 No file termPaper.bbl.
 
 Package natbib Warning: There were undefined citations.
 
 (./termPaper.aux) ) 
 Here is how much of TeX's memory you used:
- 7996 strings out of 493308
- 105403 string characters out of 6137816
+ 7998 strings out of 493308
+ 105432 string characters out of 6137816
  329414 words of memory out of 5000000
- 11259 multiletter control sequences out of 15000+600000
+ 11261 multiletter control sequences out of 15000+600000
  13411 words of font info for 53 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,5n,38p,3218b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -621,10 +629,10 @@ s/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti12.pfb>
-Output written on termPaper.pdf (7 pages, 114555 bytes).
+Output written on termPaper.pdf (8 pages, 116406 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
