@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.18)  16 AUG 2014 21:09
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.18)  19 AUG 2014 16:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -576,49 +576,51 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 29.
  [1]
 
-Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+Package natbib Warning: Citation `Jing2000' on page 2 undefined on input line 4
+2.
 
 
-Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+Package natbib Warning: Citation `Grefenstette1998' on page 2 undefined on inpu
+t line 43.
 
 
-Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 43.
 
 
-Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 43.
 
 
-Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 43.
 
 
-Package natbib Warning: Citation `bla' on page 2 undefined on input line 40.
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 43.
 
 
-Package natbib Warning: Citation `lin2001' on page 2 undefined on input line 54
+Package natbib Warning: Citation `lin2001' on page 2 undefined on input line 57
 .
 
 
 Package natbib Warning: Citation `szpektor2004' on page 2 undefined on input li
-ne 54.
+ne 57.
 
 ) [2] [3] (./section2.tex <eule.png, id=31, 117.43875pt x 125.268pt>
 File: eule.png Graphic file (type png)
 
 <use eule.png>
-Package pdftex.def Info: eule.png used on input line 7.
+Package pdftex.def Info: eule.png used on input line 15.
 (pdftex.def)             Requested size: 136.57462pt x 145.67987pt.
- [4 <./eule.png>]) [5]
+ [4 <./eule.png>]) [5] (./section3.tex) [6]
 No file termPaper.bbl.
 
 Package natbib Warning: There were undefined citations.
 
 (./termPaper.aux) ) 
 Here is how much of TeX's memory you used:
- 7998 strings out of 493308
- 105432 string characters out of 6137816
+ 8003 strings out of 493308
+ 105499 string characters out of 6137816
  329414 words of memory out of 5000000
- 11261 multiletter control sequences out of 15000+600000
- 13411 words of font info for 53 fonts, out of 8000000 for 9000
+ 11263 multiletter control sequences out of 15000+600000
+ 13758 words of font info for 54 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,5n,38p,3218b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfo
@@ -629,10 +631,10 @@ s/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti12.pfb>
-Output written on termPaper.pdf (8 pages, 116406 bytes).
+Output written on termPaper.pdf (9 pages, 120423 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
