@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.18)  19 AUG 2014 16:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.18)  31 AUG 2014 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -562,79 +562,158 @@ map/pdftex.map} <./eule.png>]) [1] (./termPaper.toc)
  [2] (./section1.tex
 
 Package natbib Warning: Citation `Jing2000' on page 1 undefined on input line 1
-3.
-
-
-Package natbib Warning: Citation `Clarke&Lapata2010' on page 1 undefined on inp
-ut line 13.
-
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 29.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 29.
- [1]
-
-Package natbib Warning: Citation `Jing2000' on page 2 undefined on input line 4
 2.
 
 
-Package natbib Warning: Citation `Grefenstette1998' on page 2 undefined on inpu
-t line 43.
+Package natbib Warning: Citation `Clarke' on page 1 undefined on input line 12.
 
 
-Package natbib Warning: Citation `bla' on page 2 undefined on input line 43.
+
+Package natbib Warning: Citation `Lapata2008' on page 1 undefined on input line
+ 12.
 
 
-Package natbib Warning: Citation `bla' on page 2 undefined on input line 43.
+Package natbib Warning: Citation `Clarke' on page 1 undefined on input line 12.
 
 
-Package natbib Warning: Citation `bla' on page 2 undefined on input line 43.
+
+Package natbib Warning: Citation `Lapata2010' on page 1 undefined on input line
+ 12.
 
 
-Package natbib Warning: Citation `bla' on page 2 undefined on input line 43.
+Package natbib Warning: Citation `Feng2008' on page 1 undefined on input line 1
+4.
 
 
-Package natbib Warning: Citation `lin2001' on page 2 undefined on input line 57
+Package natbib Warning: Citation `Coster' on page 1 undefined on input line 14.
+
+
+
+Package natbib Warning: Citation `Kauchak2011' on page 1 undefined on input lin
+e 14.
+
+
+Package natbib Warning: Citation `Siddharthan2006' on page 1 undefined on input
+ line 14.
+
+
+Package natbib Warning: Citation `Coster' on page 1 undefined on input line 14.
+
+
+
+Package natbib Warning: Citation `Kauchak2011' on page 1 undefined on input lin
+e 14.
+
+
+Package natbib Warning: Citation `Regneri' on page 1 undefined on input line 16
 .
 
 
-Package natbib Warning: Citation `szpektor2004' on page 2 undefined on input li
-ne 57.
+Package natbib Warning: Citation `Wang2012' on page 1 undefined on input line 1
+6.
 
-) [2] [3] (./section2.tex <eule.png, id=31, 117.43875pt x 125.268pt>
+
+Package natbib Warning: Citation `Filippova' on page 1 undefined on input line 
+16.
+
+
+Package natbib Warning: Citation `Strube2008' on page 1 undefined on input line
+ 16.
+
+[1]
+
+Package natbib Warning: Citation `Jing2000' on page 2 undefined on input line 2
+6.
+
+
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 28.
+
+
+Package natbib Warning: Citation `bla' on page 2 undefined on input line 28.
+
+[2]
+
+Package natbib Warning: Citation `Feng2008' on page 3 undefined on input line 3
+0.
+
+
+Package natbib Warning: Citation `Corston-Oliver 2001' on page 3 undefined on i
+nput line 30.
+
+
+Package natbib Warning: Citation `Grefenstette 1998' on page 3 undefined on inp
+ut line 30.
+
+
+Package natbib Warning: Citation `KnightMarcau2002' on page 3 undefined on inpu
+t line 37.
+
+
+Package natbib Warning: Citation `KnightMarcau2002' on page 3 undefined on inpu
+t line 37.
+
+
+Package natbib Warning: Citation `ClarkLapata 2008' on page 3 undefined on inpu
+t line 37.
+
+
+Package natbib Warning: Citation `ClarkLapata 2010' on page 3 undefined on inpu
+t line 37.
+
+[3]
+
+Package natbib Warning: Citation `SIDDHARTHAN2006' on page 4 undefined on input
+ line 39.
+
+
+Package natbib Warning: Citation `Kauchak2011' on page 4 undefined on input lin
+e 39.
+
+
+Package natbib Warning: Citation `SIDDHARTHAN2006' on page 4 undefined on input
+ line 39.
+
+
+Package natbib Warning: Citation `Kauchak2011' on page 4 undefined on input lin
+e 39.
+
+) [4] (./section2.tex <eule.png, id=37, 117.43875pt x 125.268pt>
 File: eule.png Graphic file (type png)
 
 <use eule.png>
 Package pdftex.def Info: eule.png used on input line 15.
 (pdftex.def)             Requested size: 136.57462pt x 145.67987pt.
- [4 <./eule.png>]) [5] (./section3.tex) [6]
-No file termPaper.bbl.
+ [5 <./eule.png>]) [6] (./section3.tex) [7] (./termPaper.bbl)
 
 Package natbib Warning: There were undefined citations.
 
-(./termPaper.aux) ) 
+[8] (./termPaper.aux) )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 41 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 8003 strings out of 493308
- 105499 string characters out of 6137816
- 329414 words of memory out of 5000000
- 11263 multiletter control sequences out of 15000+600000
+ 8008 strings out of 493308
+ 105528 string characters out of 6137816
+ 331481 words of memory out of 5000000
+ 11269 multiletter control sequences out of 15000+600000
  13758 words of font info for 54 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,5n,38p,3218b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmcsc10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmti12.pfb>
-Output written on termPaper.pdf (9 pages, 120423 bytes).
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmcsc10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
+pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.p
+fb>
+Output written on termPaper.pdf (11 pages, 146391 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
