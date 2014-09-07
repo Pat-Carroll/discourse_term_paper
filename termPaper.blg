@@ -1,56 +1,57 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: termPaper.aux
-White space in argument---line 17 of file termPaper.aux
+White space in argument---line 24 of file termPaper.aux
  : \citation{Corston-Oliver
  :                          2001}
 I'm skipping whatever remains of this command
-White space in argument---line 18 of file termPaper.aux
+White space in argument---line 25 of file termPaper.aux
  : \citation{Grefenstette
  :                        1998}
 I'm skipping whatever remains of this command
 The style file: apalike.bst
 Database file #1: references.bib
 Warning--I didn't find a database entry for "bla"
-You've used 11 entries,
+Warning--I didn't find a database entry for ""
+You've used 13 entries,
             1935 wiz_defined-function locations,
-            561 strings with 6046 characters,
-and the built_in function-call counts, 4935 in all, are:
-= -- 527
-> -- 135
-< -- 16
-+ -- 42
-- -- 42
-* -- 374
-:= -- 787
-add.period$ -- 37
-call.type$ -- 11
-change.case$ -- 77
-chr.to.int$ -- 11
-cite$ -- 11
-duplicate$ -- 223
-empty$ -- 380
-format.name$ -- 67
-if$ -- 1047
+            570 strings with 6367 characters,
+and the built_in function-call counts, 5987 in all, are:
+= -- 643
+> -- 149
+< -- 21
++ -- 46
+- -- 46
+* -- 429
+:= -- 931
+add.period$ -- 44
+call.type$ -- 13
+change.case$ -- 89
+chr.to.int$ -- 13
+cite$ -- 13
+duplicate$ -- 288
+empty$ -- 473
+format.name$ -- 73
+if$ -- 1296
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 10
-newline$ -- 58
-num.names$ -- 33
-pop$ -- 65
+missing$ -- 12
+newline$ -- 68
+num.names$ -- 39
+pop$ -- 88
 preamble$ -- 1
-purify$ -- 76
+purify$ -- 88
 quote$ -- 0
-skip$ -- 179
+skip$ -- 231
 stack$ -- 0
-substring$ -- 390
-swap$ -- 58
-text.length$ -- 6
+substring$ -- 477
+swap$ -- 85
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 66
+type$ -- 78
 warning$ -- 0
-while$ -- 47
+while$ -- 58
 width$ -- 0
-write$ -- 158
+write$ -- 185
 (There were 2 error messages)
