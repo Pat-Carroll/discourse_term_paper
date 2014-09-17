@@ -4,12 +4,19 @@
 \subsection{Text Compression as Translation}
 
 
-{The first compression system that will be discussed is from the article Lexicalized Markov Grammars for Sentence Compression by \citet{galley2007lexicalized}.  This system builds on previously successful noisy channel model approaches like that from  which model the deletion problem as a kind of translation from a  the noisy channel model described in \citet{Knight:2002:SBS:604203.604207} syntax driven approaches such as that used by \citet{  is a syntax driven approach which represents rules for deletion as grammar rules in a synchronous context free grammar.  This approach of builds upon previous  The system described in this article performs compression on a sentence by sentence basis without any knowledge of the discourse structure or relation between 
+{For relatively recent NLP tasks such as text compression or simplification, an expedient way to make progress towards a successful implementation is to find pre-existing models which can easily be adapted to a new task.  One of the most fruitful models for other NLP tasks has been the noisy channel model. Because the noisy channel model is well suited to tasks which require a conversion from one string to another, like in the case of translation, it has also been seen as a natural candidate for text compression\citep{knight2000statistics}.  The systems for text compression which use this noisy channel model claim a fair amount of success and thus represent one important approach which can be compared against the discourse information based system presented later in this section.  The system which I will cover here is from the article Lexicalized Markov Grammars for Sentence Compression by \citet{galley2007lexicalized}.  I've selected it because it's a relatively recent example of a Noisy Channel based approach which also covers in some depth the incremental improvements over past Noisy Channel text compression systems.}
+
+
+{When attempting to solve any NLP task using a Noisy channel model,it's helpful to give a brief introduction to how the model works.   \citet{galley2007lexicalized} refer readers to a clear and succinct explanation of the Noisy channel for text compression by \citet{knight2000statistics} which serves as the conceptual ground for their system, and the baseline for comparing results.  In the paper from Kinght and Marcau, the authors assume that a short string (the ideal compression) is transmitted over a channel and at the other end a long string (the un-compressed message) is received.  Because the channel for transmitting the message is noisy, the original short message is corrupted and ends up being transformed into the long one which can be observed. The goal is to reason backwards from the long string as to what is the most likely short string which created it.  This is done by using parallel corpora to create a \textit{channel model} and a \textit{source model}.  The \textit{channel model} describes what kinds of transformations from a long string to a short string are permitted, and what is their likelihood. The \textit{source model} is used to determine the likelihood that a candidate compression output from the \textit{channel model} is a well formed sentence in the language.}  
+
+% Here I am going to need a diagram of the noisy channel model
+
+
+{  In developing the source model for \citet{galley2007lexicalized} they choose to focus on a syntax driven approach which represents the deletion operation as rules in a synchronous context free grammar.  The     grammar works 
 
 
 
-
-
+build off the syntax driven approach similar to that described in \citet{knight2000statistics}.
 
 
 {In order to arrive at suitable constraints for deletion, several approaches have been proposed. One example from \citep{Knight:2002:SBS:604203.604207} models compression as a translation from a verbose sentence to a sparse one. In this approach the noisy channel model is used to find the most likely compression out of a set of many possible compressions. In the paper by \citet{Clarke:2010:DCD:1950488.1950493} which I will be covering in section 2, the authors re-imagines the task as an optimization problem:  Given a string of text, retain the words which maximize a scoring function.  The scoring function is series of competing constraints, including rules about enforcing grammaticality, keeping text to a certain length, and retaining informative words based on sentence and discourse level information. 

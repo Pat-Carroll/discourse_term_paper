@@ -1,0 +1,14 @@
+\section{Notes and Junk}
+
+
+
+\subsection{stuff from intro Applications}
+
+
+
+{When the goal of a text summarization system is scaled up to summarize a collection of documents,the baseline extractive approach runs into a similar problem of balancing important information with summarization brevity. In the baseline multi-document extractive approach, sentences from across all documents are clustered based on their similarity to each other.  The summary is created by picking sentences from the clusters which are the best representations of important information.  Like in the previous example, sentences are selected whole, which . In these cases sentence fusion was envisioned as a means to pick the best snippets of informative text from a cluster and fuse them into new sentence, thus greatly reducing the amount of redundant or unneeded text.\citet{bla}.}
+
+
+
+
+{A good starting point when talking about applications is to look at how text summarization can be augmented by both sentence compression and sentence fusion.  As a baseline, most text summarization systems use extractive approaches which shorten a document by retaining important sentences, and discarding everything else.  While extractive approaches guarantee grammatical output on the sentence level, it's often not a fine-grained enough solution for some summarization goals.  For instance, if the goal is to have a summary with maximum compression of text length, the simple extractive approach falls short.  This is because some texts will inevitably contain sentences with a mix of important and superfluous information.  Sentence compression was envisioned as a means to tackle these cases.  By compressing the sentences which are output from extractive summarization systems, a sentence compression system can further reduce summary length for more concise text summaries.  This is in effect a double compression pipeline which first cuts out un-necessary sentences using extraction, then cuts out un-necessary words using compression.}
