@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[Clarke and Lapata, 2008]{Clarke:2008:GIS:1622655.1622667}
+Clarke, J. and Lapata, M. (2008).
+\newblock Global inference for sentence compression an integer linear
+  programming approach.
+\newblock {\em J. Artif. Int. Res.}, 31(1):399--429.
+
 \bibitem[Clarke and Lapata, 2010]{Clarke:2010:DCD:1950488.1950493}
 Clarke, J. and Lapata, M. (2010).
 \newblock Discourse constraints for document compression.
@@ -23,13 +29,6 @@ Feng, L. (2008).
 \newblock Text simpliﬁcation: A survey.
 \newblock Technical report, CUNY.
 
-\bibitem[Filippova and Strube, 2008]{Filippova:2008:SFV:1613715.1613741}
-Filippova, K. and Strube, M. (2008).
-\newblock Sentence fusion via dependency graph compression.
-\newblock In {\em Proceedings of the Conference on Empirical Methods in Natural
-  Language Processing}, EMNLP '08, pages 177--185, Stroudsburg, PA, USA.
-  Association for Computational Linguistics.
-
 \bibitem[Galley and McKeown, 2007]{galley2007lexicalized}
 Galley, M. and McKeown, K. (2007).
 \newblock Lexicalized markov grammars for sentence compression.
@@ -49,35 +48,27 @@ Jing, H. (2000).
   Language Processing}, ANLC '00, pages 310--315, Stroudsburg, PA, USA.
   Association for Computational Linguistics.
 
+\bibitem[Jonnalagadda and Gonzalez, 2010]{jonnalagadda2010biosimplify}
+Jonnalagadda, S. and Gonzalez, G. (2010).
+\newblock Biosimplify: an open source sentence simplification engine to improve
+  recall in automatic biomedical information extraction.
+\newblock In {\em AMIA Annual Symposium Proceedings}, volume 2010, page 351.
+  American Medical Informatics Association.
+
+\bibitem[Knight and Marcu, 2000]{knight2000statistics}
+Knight, K. and Marcu, D. (2000).
+\newblock Statistics-based summarization-step one: Sentence compression.
+\newblock In {\em AAAI/IAAI}, pages 703--710.
+
 \bibitem[Knight and Marcu, 2002]{Knight:2002:SBS:604203.604207}
 Knight, K. and Marcu, D. (2002).
 \newblock Summarization beyond sentence extraction: A probabilistic approach to
   sentence compression.
 \newblock {\em Artif. Intell.}, 139(1):91--107.
 
-\bibitem[Lin and Pantel, 2001]{lin2001}
-Lin, D. and Pantel, P. (2001).
-\newblock {DIRT} - {D}iscovery of {I}nference {R}ules from {T}ext.
-\newblock In {\em Proceedings of the ACM SIGKDD Conference on Knowledge
-  Discovery and Data Mining (KDD-01)}, pages 323--328, San Francisco, CA.
-
-\bibitem[Regneri and Wang, 2012]{Regneri:2012:UDI:2390948.2391048}
-Regneri, M. and Wang, R. (2012).
-\newblock Using discourse information for paraphrase extraction.
-\newblock In {\em Proceedings of the 2012 Joint Conference on Empirical Methods
-  in Natural Language Processing and Computational Natural Language Learning},
-  EMNLP-CoNLL '12, pages 916--927, Stroudsburg, PA, USA. Association for
-  Computational Linguistics.
-
 \bibitem[Siddharthan, 2006]{Siddharthan2006}
 Siddharthan, A. (2006).
 \newblock Syntactic simplification and text cohesion.
 \newblock {\em Research on Language and Computation}, 4(1):77--109.
-
-\bibitem[Szpektor et~al., 2004]{szpektor2004}
-Szpektor, I., Tanev, H., Dagan, I., and Coppola, B. (2004).
-\newblock Scaling web-based acquisition of entailment relations.
-\newblock In {\em Conference on Empirical Methods in Natural Language
-  Processing (EMNLP-04)}, pages 41--48, Barcelona, Spain.
 
 \end{thebibliography}

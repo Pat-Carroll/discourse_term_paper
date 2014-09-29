@@ -12,3 +12,19 @@
 
 
 {A good starting point when talking about applications is to look at how text summarization can be augmented by both sentence compression and sentence fusion.  As a baseline, most text summarization systems use extractive approaches which shorten a document by retaining important sentences, and discarding everything else.  While extractive approaches guarantee grammatical output on the sentence level, it's often not a fine-grained enough solution for some summarization goals.  For instance, if the goal is to have a summary with maximum compression of text length, the simple extractive approach falls short.  This is because some texts will inevitably contain sentences with a mix of important and superfluous information.  Sentence compression was envisioned as a means to tackle these cases.  By compressing the sentences which are output from extractive summarization systems, a sentence compression system can further reduce summary length for more concise text summaries.  This is in effect a double compression pipeline which first cuts out un-necessary sentences using extraction, then cuts out un-necessary words using compression.}
+
+
+
+\subsection{Deleted sentence fusion stuff}
+
+
+ 
+ \iffalse
+{Next on to the task of sentence fusion.  Sentence fusion can be defined as creating a summary of a multi-document collection by fusing parts of related sentences together \citep{Filippova:2008:SFV:1613715.1613741}.   The process for doing so is best divided into two steps.  In the first step, often referred to as paraphrase detection, the aim is to search a multi-document database  and identify clusters of equivalent sentences or sentences fragments \citep{Regneri:2012:UDI:2390948.2391048}. In the second step, commonly referred to as the fusion step,  the aim is to create a summary sentence for each paraphrase cluster which maximizes common information across the sentences, while minimizing redundancy.  This is done by combining parts of sentences from a cluster and inserting other function words to ensure a grammatical sentence upon output.\citep{Filippova:2008:SFV:1613715.1613741}. In this paper I will cover an end to end approach of the task by \citet{Filippova:2008:SFV:1613715.1613741}, and a stand alone paraphrase detection system by \citet{Regneri:2012:UDI:2390948.2391048} which makes use of discourse information for better paraphrase clustering.}
+\fi
+
+
+
+\iffalse
+{While text compression was envisioned as a general tool to condense any sort of text summary, sentence fusion was developed with a more narrow scope of summarizing multi-document collections.  It's need  arose from the problem that extractive summarization systems often have a trade off between producing long winded summaries which adequately cover important information, or summaries which sacrifice information in favor of brevity \citep{Filippova:2008:SFV:1613715.1613741}.  Of the three task being discussed, sentence fusion is by far the most specifically focused on the single application of summarization,  however, many of the individual components developed for sentence fusion can find use in other application.  For instance one technique for collapsing sentences together, dependency graph pruning, has also been found to be useful for sentence compression as well \citep{filippova2008dependency}.  And the clustering of sentence paraphrases can be applied to a wide variety of applications such a recognizing textual entailment \citep{dagan2006pascal} and natural language generation\citep{zhao2010leveraging}.}
+\fi

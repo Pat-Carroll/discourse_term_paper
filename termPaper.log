@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.18)  15 SEP 2014 17:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.18)  28 SEP 2014 20:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -560,93 +560,73 @@ map/pdftex.map} <./eule.png>]) [1] (./termPaper.toc)
 \openout4 = `termPaper.toc'.
 
  [2] (./section1.tex
-[1] [2]
+[1]
 
-Package natbib Warning: Citation `filippova2008dependency' on page 3 undefined 
-on input line 24.
+Package natbib Warning: Citation `vandeghinste2004sentence' on page 2 undefined
+ on input line 21.
 
+[2]) [3] (./section2.tex <noisyCh.png, id=34, 569.12625pt x 68.255pt>
+File: noisyCh.png Graphic file (type png)
 
-Package natbib Warning: Citation `dagan2006pascal' on page 3 undefined on input
- line 24.
-
-
-Package natbib Warning: Citation `zhao2010leveraging' on page 3 undefined on in
-put line 24.
-
-
-Package natbib Warning: Citation `Corston-Oliver 2001' on page 3 undefined on i
-nput line 27.
-
-
-Package natbib Warning: Citation `Grefenstette 1998' on page 3 undefined on inp
-ut line 27.
-
-[3]) [4] (./section2.tex
-
-Package natbib Warning: Citation `knight2000statistics' on page 5 undefined on 
-input line 7.
-
-
-Package natbib Warning: Citation `knight2000statistics' on page 5 undefined on 
-input line 10.
-
-
-Package natbib Warning: Citation `something from Knight' on page 5 undefined on
- input line 10.
-
-[5]
-
-Package natbib Warning: Citation `knight2000statistics' on page 6 undefined on 
-input line 23.
-
-<eule.png, id=41, 117.43875pt x 125.268pt>
-File: eule.png Graphic file (type png)
- <use eule.png>
-Package pdftex.def Info: eule.png used on input line 48.
-(pdftex.def)             Requested size: 136.57462pt x 145.67987pt.
- [6 <./eule.png>])
-[7] (./section3.tex) [8] (./termPaper.bbl
+<use noisyCh.png>
+Package pdftex.def Info: noisyCh.png used on input line 13.
+(pdftex.def)             Requested size: 364.19667pt x 43.67992pt.
+ [4 <./noisyCh.png>] [5]
+<tree1.png, id=44, 877.2775pt x 440.64626pt>
+File: tree1.png Graphic file (type png)
+ <use tree1.png>
+Package pdftex.def Info: tree1.png used on input line 35.
+(pdftex.def)             Requested size: 318.66948pt x 160.06467pt.
+ [6 <./tree1.png>]
+[7]
+Missing character: There is no ‚ in font cmr8!
+Missing character: There is no Ä in font cmr8!
+Missing character: There is no ô in font cmr8!
+ [8] [9]) [10] (./section3.tex) [11] (./termPaper.bbl
 Missing character: There is no Ô in font cmr12!
 Missing character: There is no ¨ in font cmr12!
 Missing character: There is no Å in font cmr12!
- [9])
+)
 
 Package natbib Warning: There were undefined citations.
 
-[10] (./termPaper.aux)
+[12] (./termPaper.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 51 ({)
-### simple group (level 2) entered at line 43 ({)
+### simple group (level 3) entered at line 81 ({)
+### simple group (level 2) entered at line 79 ({)
 ### simple group (level 1) entered at line 8 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 8039 strings out of 493308
- 106595 string characters out of 6137816
- 330844 words of memory out of 5000000
- 11298 multiletter control sequences out of 15000+600000
- 15457 words of font info for 62 fonts, out of 8000000 for 9000
+ 8044 strings out of 493308
+ 106610 string characters out of 6137816
+ 330849 words of memory out of 5000000
+ 11300 multiletter control sequences out of 15000+600000
+ 15766 words of font info for 63 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,8n,38p,3218b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,38p,3218b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmcsc10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
-pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-
-Output written on termPaper.pdf (13 pages, 161060 bytes).
+m/cmbx8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmcsc10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pf
+b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on termPaper.pdf (15 pages, 242183 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 114 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
