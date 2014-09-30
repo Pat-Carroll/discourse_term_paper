@@ -66,9 +66,23 @@ Knight, K. and Marcu, D. (2002).
   sentence compression.
 \newblock {\em Artif. Intell.}, 139(1):91--107.
 
+\bibitem[Koehn et~al., 2007]{koehn2007moses}
+Koehn, P., Hoang, H., Birch, A., Callison-Burch, C., Federico, M., Bertoldi,
+  N., Cowan, B., Shen, W., Moran, C., Zens, R., et~al. (2007).
+\newblock Moses: Open source toolkit for statistical machine translation.
+\newblock In {\em Proceedings of the 45th Annual Meeting of the ACL on
+  Interactive Poster and Demonstration Sessions}, pages 177--180. Association
+  for Computational Linguistics.
+
 \bibitem[Siddharthan, 2006]{Siddharthan2006}
 Siddharthan, A. (2006).
 \newblock Syntactic simplification and text cohesion.
 \newblock {\em Research on Language and Computation}, 4(1):77--109.
+
+\bibitem[Vandeghinste and Pan, 2004]{vandeghinste2004sentence}
+Vandeghinste, V. and Pan, Y. (2004).
+\newblock Sentence compression for automated subtitling: A hybrid approach.
+\newblock In {\em Proceedings of the ACL workshop on Text Summarization}, pages
+  89--95.
 
 \end{thebibliography}
